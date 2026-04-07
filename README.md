@@ -1,4 +1,4 @@
-# StockFlow — Inventory Management System (B2B SaaS)
+# StockFlow - Inventory Management System (B2B SaaS)
 
 **Candidate:** Amol Raut  
 **Role:** Backend Engineering Intern  
@@ -7,7 +7,7 @@ This case study designs backend components for **StockFlow**, a B2B inventory ma
 
 ---
 
-# Part 1 — Code Review & Debugging
+# Part 1 - Code Review & Debugging
 
 ## Issues Identified
 
@@ -90,7 +90,7 @@ def create_product():
 
 ---
 
-# Part 2 — Database Design
+# Part 2 - Database Design
 
 ## Schema
 
@@ -172,7 +172,7 @@ def create_product():
 
 ---
 
-# Part 3 — Low Stock Alerts API
+# Part 3 - Low Stock Alerts API
 
 ## Endpoint
 
